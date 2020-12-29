@@ -1,0 +1,14 @@
+{
+  "remote.SSH.showLoginTerminal": true,
+  "editor.renderWhitespace": "all",
+  "editor.fontFamily": "Ricty Diminished Discord",
+  "workbench.colorTheme": "Monokai Dimmed",
+  "editor.fontSize": 16,
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.detectIndentation": false,
+  "workbench.sideBar.location": "left",
+  "terminal.integrated.shell.osx": "/usr/local/bin/fish"
+}
