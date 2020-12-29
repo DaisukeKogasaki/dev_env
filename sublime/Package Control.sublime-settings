@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"Japanize",
+		"Monokai Extended",
+		"Package Control",
+		"Sass",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}

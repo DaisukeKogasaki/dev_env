@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"default_line_ending": "unix",
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"fold_buttons": true,
+	"font_face": "Ricty Diminished Discord",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"trailing_spaces_highlight_color": "invalid",
+	"trailing_spaces_regexp": "　|[ \t]+",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}
