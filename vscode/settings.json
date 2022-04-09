@@ -32,6 +32,8 @@
   "redhat.telemetry.enabled": true,
   "terminal.integrated.defaultProfile.linux": "fish",
   "security.workspace.trust.untrustedFiles": "open",
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.bracketPairColorization.enabled": true,
   "terminal.integrated.shell.osx": "/usr/local/bin/fish"
 }
 // {
