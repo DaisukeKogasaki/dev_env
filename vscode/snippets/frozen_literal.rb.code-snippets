@@ -1,0 +1,9 @@
+{
+  "frozen_string_literal": {
+    "prefix": "frozen_literal.rb",
+    "body": [
+      "# frozen_string_literal: true",
+      "",
+    ]
+  }
+}

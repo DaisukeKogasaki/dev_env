@@ -1,0 +1,8 @@
+{
+  "v-dummy-card": {
+    "prefix": "v-dummy-card",
+    "body": [
+      "<v-card color=\"red\" width=\"547\" height=\"451\" flat tile style=\"margin-top: 38px\" />",
+    ]
+  }
+}

@@ -1,14 +1,51 @@
 {
-  "remote.SSH.showLoginTerminal": true,
-  "editor.renderWhitespace": "all",
-  "editor.fontFamily": "Ricty Diminished Discord",
-  "workbench.colorTheme": "Monokai Dimmed",
-  "editor.fontSize": 16,
-  "window.zoomLevel": 0,
-  "editor.minimap.enabled": false,
-  "editor.tabSize": 2,
-  "workbench.startupEditor": "newUntitledFile",
   "editor.detectIndentation": false,
+  "editor.fontFamily": "Ricty Diminished Discord",
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "files.autoSave": "off",
+  "files.insertFinalNewline": true,
+  "liveshare.presence": true,
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#294a5b",
+    "activityBar.activeBorder": "#0989d7",
+  },
+  "bracketPairColorizer.showBracketsInGutter": true,
+  "remote.SSH.remotePlatform": {
+    "kogasaki-dev": "linux",
+    "main_pc_ubuntu": "linux",
+    "dev-ubuntu": "linux",
+  },
+  "remote.SSH.showLoginTerminal": true,
   "workbench.sideBar.location": "left",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": true,
+  "vetur.experimental.templateInterpolationService": true,
+  "files.associations": {
+    "*.jb": "ruby"
+  },
+  "workbench.editor.untitled.hint": "hidden",
+  "redhat.telemetry.enabled": true,
+  "terminal.integrated.defaultProfile.linux": "fish",
+  "security.workspace.trust.untrustedFiles": "open",
   "terminal.integrated.shell.osx": "/usr/local/bin/fish"
 }
+// {
+//   "ruby.lint": {
+//     "rubocop": true
+//   },
+//   "ruby.pathToBundler": "/path/to/your/bundle",
+//   "ruby.useBundler": true,
+//   "git.ignoreLimitWarning": true,
+//   "remote.SSH.defaultForwardedPorts": [
+//     {
+//       "localPort": 3000,
+//       "name": "rails",
+//       "remotePort": 3000,
+//     },
+//   ]
+// }

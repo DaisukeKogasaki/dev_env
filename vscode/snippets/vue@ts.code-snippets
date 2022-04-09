@@ -1,0 +1,16 @@
+{
+  "vue@ts": {
+    "prefix": "vue@ts",
+    "body": [
+      "<template>",
+      "</template>",
+      "",
+      "<script lang=\"ts\">",
+      "import { Vue, Component } from \"vue-property-decorator\";",
+      "",
+      "@Component",
+      "export default class 'Insert Component Name' extends Vue {}",
+      "</script>",
+    ]
+  }
+}
