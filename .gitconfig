@@ -1,0 +1,27 @@
+[user]
+	email = 
+	name = 
+[push]
+	default = current
+# ファイルの移動・コピーを検出する
+[diff]
+  renames = copy
+# 各種出力をカラーで行う
+[color]
+  ui = true
+# gitサブコマンドの別名
+[alias]
+  st = status -sb
+  co = checkout
+  br = branch -a
+  brm = branch --merged
+  brn = branch --no-merge
+  ci = !screen -t git-commit git commit -v
+  ds = !screen -t git-diff git diff --staged
+  d = !screen -t git-diff git diff HEAD
+  l = !screen -t git-log git log --name-status --graph --decorate=short --date=local
+[core]
+	editor = vim
+
+[grep]
+	lineNumber = true
