@@ -1,4 +1,3 @@
-set mouse = true
 set line-graphics = ascii
 set horizontal-scroll = 20%
 set vertical-split = no
